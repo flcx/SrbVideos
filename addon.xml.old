@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+ id="plugin.video.SrbVideos"
+ version="0.1"
+ name="Serbian Videos"
+ provider-name="flcx"
+ >
+ <requires> </requires>
+ <extension point="see notes"></extension>
+ <extension point="xbmc.addon.metadata">
+ <summary>Popular Serbian TV Shows</summary>
+ <description>Provides streams of popular Serbian TV shows.</description>
+ <platform>all</platform>
+ </extension>
+</addon>
